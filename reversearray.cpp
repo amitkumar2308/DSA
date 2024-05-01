@@ -26,4 +26,4 @@ int main() {
 //Approach used 
 //(i) find Size of Array 
 //(ii) Last Index of Array
-//(iii) fter that using for loop in decrement order
+//(iii) After that using for loop in decrement order
